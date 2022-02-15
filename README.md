@@ -1,4 +1,4 @@
-# Simple Calculator
+# Base Converter
  
  <p float="left">
   <img src="/pics/ti1.png" width="150" /> 
@@ -9,7 +9,7 @@
 </p>
 
 
-### An Open Source Simple Calculator Application.
+### An Open Source Base Converter Application.
 
 ### Supports Light and Dark Mode
 
