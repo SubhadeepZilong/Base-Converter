@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+    <string name="loading">Loading…</string>
+    <string name="Bin">Binary</string>
+    <string name="Con">Convert</string>
+    <string name="Dec">Decimal</string>
+    <string name="Oct">Octal</string>
+    <string name="Hex">Hexadecimal</string>
+    <string name="display1">Enter the number</string>
+    <string-array name="base">
+        <item>Binary</item>
+        <item>Decimal</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+
+    <string name="author">By \n Subhadeep Chakraborty</string>
+
+</resources>
