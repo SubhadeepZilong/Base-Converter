@@ -1,7 +1,6 @@
 # Simple Calculator
  
  <p float="left">
-  <img src="/pics/ti0.png" width="150" />
   <img src="/pics/ti1.png" width="150" /> 
   <img src="/pics/ti2.png" width="150" />
   <img src="/pics/ti3.png" width="150" />
